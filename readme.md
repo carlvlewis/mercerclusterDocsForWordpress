@@ -13,7 +13,7 @@ A clean, responsive documentation theme for WordPress, originally developed for 
 ## Using
 
 * Just create categories and assign posts to the category. That's all you need. 
-* To create bootstrap like navigation in left side of each post, you've to put heading in H1 tag on your posts. H1 tags will be automatically pulled out and placed as navigation. [example](http://docs.wedevs.com/creating-posting-forms/)
+* To create bootstrap like navigation in left side of each post, you've to put heading in H1 tag on your posts. H1 tags will be automatically pulled out and placed as navigation.
 * Open the theme customiser. There is a logo and home page headline, sub heading text and footer text option for customisation.
 
 ### Built with
